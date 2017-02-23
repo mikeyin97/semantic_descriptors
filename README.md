@@ -1,5 +1,4 @@
-Created by: Ted Huang, Nov 29, 2015
-Last revised: November 23, 2016
+# Semantic_descriptors
 
 The goal of this program is to be able to find synonyms 
 or words with close meaning, when given some word. 
