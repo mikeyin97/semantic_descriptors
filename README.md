@@ -3,7 +3,7 @@
 The goal of this program is to be able to find synonyms 
 or words with close meaning, when given some word. 
 
-This accomplished using a semantic descriptor tester.
+This is accomplished using a semantic descriptor tester.
 One way to calculate if words are similar to one 
 another is to calculate how many times they appear in the same sentence.
 
